@@ -1,0 +1,4 @@
+baseURL = "https://terrymyc.github.io"
+languageCode = "en-us"
+title = "Yongchao Terry Ma"
+theme = "coder-portfolio"
