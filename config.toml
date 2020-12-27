@@ -1,4 +1,73 @@
 baseURL = "https://terrymyc.github.io"
+title = "Yongchao Ma"
+theme = "hugo-coder"
 languageCode = "en-us"
-title = "Yongchao Terry Ma"
-theme = "coder-portfolio"
+defaultcontentlanguage = "en"
+
+paginate = 20        # Default number of pages per page in pagination.
+canonifyurls = true  # Enable to turn relative URLs into absolute.
+
+pygmentsstyle = "bw"                  # Color-theme or style for syntax highlighting.
+pygmentscodefences = true             # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true  # Enable syntax guessing for code fences without specified language.
+
+#disqusShortname = "yourdiscussshortname"  # Enable or disable Disqus.
+
+[params]
+  author = "Yongchao Ma"
+  info = "M.Sc. student in methodology & statistics"
+  description = "Yongchao Ma's personal website"
+  keywords = "Yongchao Ma, Yongchao Terry Ma, Yongchao, Terry, Ma, statistician"
+  avatarurl = "images/yongchao.jpeg" # Contain the path of the optional avatar in the static folder.
+
+  
+  footercontent = "Sociologist | Criminologist | Statistician"  # Add footer content
+
+  # Whether you want to hide copyright and credits in the footer.
+  hideCredits = false
+  hideCopyright = false
+
+  # Custom CSS
+  custom_css = []
+
+  # RTL support
+  rtl = false
+
+  # Multilanguage mode
+  langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/terrymyc/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/yongchao-ma/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/terrymyc"
+[[params.social]]
+  name = "Mail"
+  icon = "fa fa-envelope fa-2x"
+  weight = 4
+  url = "mailto:y.ma1@uu.nl"
+
+# Menu links
+[[menu.main]]
+  name = "About me"
+  weight = 1
+  url  = "/abt/"
+[[menu.main]]
+  name = "Research"
+  weight = 2
+  url  = "/research/"
+[[menu.main]]
+  name = "Publications"
+  weight = 3
+  url  = "/pubs/"
