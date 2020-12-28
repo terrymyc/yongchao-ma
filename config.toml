@@ -15,17 +15,24 @@ pygmentscodefencesguesssyntax = true  # Enable syntax guessing for code fences w
 
 [params]
   author = "Yongchao Ma"
-  info = "M.Sc. student in methodology & statistics"
+  info = "M.Sc. student in Methodology & Statistics"
   description = "Yongchao Ma's personal website"
-  keywords = "Yongchao Ma, Yongchao Terry Ma, Yongchao, Terry, Ma, statistician"
+  keywords = "Yongchao Ma, Yongchao Terry Ma, Yongchao, Terry, Ma, sociology, criminology, statistics, methodology"
   avatarurl = "images/yongchao.jpeg" # Contain the path of the optional avatar in the static folder.
 
-  
+
+
   footercontent = "Sociologist | Criminologist | Statistician"  # Add footer content
+  hideFooter = false
 
   # Whether you want to hide copyright and credits in the footer.
   hideCredits = false
   hideCopyright = false
+  
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  Hidecolorschemetoggle = false
 
   # Custom CSS
   custom_css = []
@@ -35,6 +42,7 @@ pygmentscodefencesguesssyntax = true  # Enable syntax guessing for code fences w
 
   # Multilanguage mode
   langseparator = "|" # Separates menus from language selectors when site is multilingual.
+
 
 # Social links
 [[params.social]]
@@ -62,7 +70,7 @@ pygmentscodefencesguesssyntax = true  # Enable syntax guessing for code fences w
 [[menu.main]]
   name = "About me"
   weight = 1
-  url  = "/abt/"
+  url  = "/about/"
 [[menu.main]]
   name = "Research"
   weight = 2
@@ -71,3 +79,7 @@ pygmentscodefencesguesssyntax = true  # Enable syntax guessing for code fences w
   name = "Publications"
   weight = 3
   url  = "/pubs/"
+[[menu.main]]
+  name = "Vitae"
+  weight = 4
+  url  = "/cv/ma.pdf"
