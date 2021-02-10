@@ -8,7 +8,7 @@ draft: false
 
 #### Journal Articles
 
-- van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., **Ma, Y.**, Fang, Q., Hindriks, S., Tummers, L., and Oberski, D., Accepted. Open Source Software for Efficient and Transparent Reviews. _Nature Machine Intelligence_.
+- van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., **Ma, Y.**, Fang, Q., Hindriks, S., Tummers, L., & Oberski, D. L. (2021). [An open source machine learning framework for efficient and transparent systematic reviews.](https://doi.org/10.1038/s42256-020-00287-7) _Nature Machine Intelligence_.
 
 ---
 
@@ -20,13 +20,7 @@ draft: false
 
 #### Software
 
-- [`asreview`](https://pypi.org/project/asreview/) in Python: Active learning for systematic reviews (core development team member)
-
-    > Systematic Reviews are “top of the bill” in research. The number of scientific studies is increasing exponentially in many scholarly fields. Performing a sound systematic review is a time-consuming and sometimes boring task. Our software is designed to accelerate the step of screening abstracts and titles with a minimum of papers to be read by a human with no or very few false negatives.
+- [`asreview`](https://pypi.org/project/asreview/) in Python: Active learning for Systematic Reviews [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3345592.svg)](https://doi.org/10.5281/zenodo.3345592)
     
     - [User guide](https://asreview.readthedocs.io) & [source code](https://github.com/asreview/asreview).
-     
-    - For citing the ASReview project, refer to the [preprint](https://arxiv.org/abs/2006.12166).
-
-    - For citing the software, refer to the [specific release](https://doi.org/10.5281/zenodo.3345592) of the software. The menu on the right (in Zenodo) can be used to find the citation format of prevalence.
 
