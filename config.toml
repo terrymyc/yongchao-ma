@@ -82,4 +82,4 @@ pygmentscodefencesguesssyntax = true  # Enable syntax guessing for code fences w
 [[menu.main]]
   name = "Vitae"
   weight = 4
-  url  = "/cv/ma.pdf"
+  url  = "/cv/Ma.pdf"
