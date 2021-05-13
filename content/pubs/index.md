@@ -8,7 +8,7 @@ draft: false
 
 #### Journal Articles
 
-- van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., **Ma, Y.**, Fang, Q., Hindriks, S., Tummers, L., & Oberski, D. L. (2021). [An open source machine learning framework for efficient and transparent systematic reviews.](https://doi.org/10.1038/s42256-020-00287-7) _Nature Machine Intelligence_.
+- van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., **Ma, Y.**, Fang, Q., Hindriks, S., Tummers, L., & Oberski, D. L. (2021). [An open source machine learning framework for efficient and transparent systematic reviews.](https://doi.org/10.1038/s42256-020-00287-7) _Nature Machine Intelligence, 3_(2), 125-133.
 
 ---
 
