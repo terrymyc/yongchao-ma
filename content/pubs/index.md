@@ -21,7 +21,10 @@ draft: false
 #### Software
 
 - `asreview` ASReview: Active learning for systematic reviews [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3345592.svg)](https://doi.org/10.5281/zenodo.3345592)
-    
-    - [User guide](https://asreview.readthedocs.io) & [source code](https://github.com/asreview/asreview).
+
+    - ASReview Software Documentation [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3345592.svg)](https://doi.org/10.5281/zenodo.4287119)
+    - [GitHub source code](https://github.com/asreview/asreview)
 
 - `asreview-wordcloud` Wordclouds: A tool to create a visual impression of the verbal content within a systematic review dataset [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4672241.svg)](https://doi.org/10.5281/zenodo.4672241)
+
+    - [GitHub source code](https://github.com/asreview/asreview-wordcloud)
