@@ -45,8 +45,7 @@ Collecting official statistics survey data is getting more difficult. Costs have
       <guid>https://yongchaoma.com/research/asreview/</guid>
       <description>Utrecht University
 Systematic reviews are “top of the bill” in research. The Active learning for Systematic Reviews (ASReview) project, publised in Nature Machine Intelligence, implements machine learning algorithms to accelerate the step of screening abstracts and titles with a minimum of papers to be read by a human with no or very few false negatives.
-As a core team member, my task involves:
- Preprocess the metadata of training data sets from published systematic reviews Back-end Python API, and front-end JavaScript user interface development  </description>
+As a research assistant under the supervision of Prof. Dr. Rens van de Schoot, my task involves:</description>
     </item>
     
   </channel>

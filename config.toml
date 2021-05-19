@@ -3,6 +3,7 @@ title = "Yongchao Ma"
 theme = "hugo-coder"
 languageCode = "en-us"
 defaultcontentlanguage = "en"
+googleAnalytics = "G-G1BNVN1EHT"
 
 paginate = 20        # Default number of pages per page in pagination.
 canonifyurls = true  # Enable to turn relative URLs into absolute.
