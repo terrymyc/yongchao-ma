@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yongchao Ma</title>
-    <link>https://yongchaoma.com/</link>
-    <description>Recent content on Yongchao Ma</description>
+    <title>Research Projects on Yongchao Ma</title>
+    <link>https://yongchaoma.com/research/</link>
+    <description>Recent content in Research Projects on Yongchao Ma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Dec 2020 17:06:22 +0100</lastBuildDate><atom:link href="https://yongchaoma.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publications</title>
-      <link>https://yongchaoma.com/pubs/</link>
-      <pubDate>Sun, 27 Dec 2020 12:25:33 +0100</pubDate>
-      
-      <guid>https://yongchaoma.com/pubs/</guid>
-      <description>Journal Articles  van de Schoot, R., de Bruin, J., Schram, R., Zahedi, P., de Boer, J., Weijdema, F., Kramer, B., Huijts, M., Hoogerwerf, M., Ferdinands, G., Harkema, A., Willemsen, J., Ma, Y., Fang, Q., Hindriks, S., Tummers, L., &amp;amp; Oberski, D. L. (2021). An open source machine learning framework for efficient and transparent systematic reviews. Nature Machine Intelligence, 3(2), 125-133.  Presentations  Ma, Y., 2016. The Change of the Sociopolitical Attitudes of the Middle Class in China: 2003–2013.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://yongchaoma.com/about/</link>
-      <pubDate>Sun, 27 Dec 2020 11:31:38 +0100</pubDate>
-      
-      <guid>https://yongchaoma.com/about/</guid>
-      <description>I am a research master student and research assistant in the Department of Methodology and Statistics at Utrecht University. I am also an intern at Statistics Netherlands.
-I received my Bachelor&amp;rsquo;s degree in Sociology from China in 2017 and my Master&amp;rsquo;s degree in Criminology and Criminal Justice from the University of Macau in 2019, including a one-semester exchange program at Linköping University in Sweden.
-My research interests focus on adaptive survey design, survey nonresponse, quantitative methods, inequality &amp;amp; stratification.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 27 Dec 2020 17:06:22 +0100</lastBuildDate><atom:link href="https://yongchaoma.com/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimal Stratification in Bayesian Adaptive Survey Designs</title>
       <link>https://yongchaoma.com/research/survey/</link>

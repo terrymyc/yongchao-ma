@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://yongchaoma.com/</loc>
+    <lastmod>2020-12-27T17:06:22+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yongchaoma.com/pubs/</loc>
     <lastmod>2020-12-27T12:25:33+01:00</lastmod>
   </url>
@@ -18,15 +23,21 @@
   </url>
   
   <url>
+    <loc>https://yongchaoma.com/research/survey/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yongchaoma.com/research/asreview/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yongchaoma.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://yongchaoma.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yongchaoma.com/</loc>
   </url>
   
 </urlset>
