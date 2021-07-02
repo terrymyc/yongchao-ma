@@ -11,6 +11,8 @@ draft: false
 
 #### Presentations
 
+- **Ma, Y.**, Mushkudiani, N., Schouten, B., 2021. Optimal Stratification in Bayesian Adaptive Survey Designs. Paper presented at the European Survey Research Association Conference.
+
 - **Ma, Y.**, 2016. The Change of the Sociopolitical Attitudes of the Middle Class in China: 2003–2013. Paper presented at the Annual Meeting of the Chinese Sociological Association.
 
 
